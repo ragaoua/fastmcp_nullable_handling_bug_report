@@ -1,3 +1,5 @@
+This project illustrates the bug reported in : https://github.com/jlowin/fastmcp/issues/1280
+
 # Main files
 
 - api.json : dummy openapi 3.0 spec. This is used to generate the MCP server.
